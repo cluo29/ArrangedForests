@@ -1,2 +1,5 @@
 # ArrangedForests
-arranged forests is a machine learning method enhancing random forests by reducing feature overlap between trees
+Arranged forests is a machine learning method optimising random forests. 
+
+Author: Chu Luo <http://cluo29.github.io/>, Yuehui Zhang <zyh@sjtu.edu.cn>
+
